@@ -1,4 +1,9 @@
-.idea
+# TIL (thx to cockroachdb):
+# Editor or environment-specific entries should not be committed to the
+# repository but can be kept in git's global configuration:
+#
+# https://help.github.com/articles/ignoring-files/#create-a-global-gitignore
+
 # Binaries for programs and plugins
 *.exe
 *.exe~

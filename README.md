@@ -29,7 +29,7 @@ For example, to clarify a flow the following comment is valid and gives a contex
 // this = that
 ```
 
-But it also a valid go code.
+But it is also a valid go code.
 
 The following comment is a URL for a website with some info that describes the following code as well as a valid go
 label.
